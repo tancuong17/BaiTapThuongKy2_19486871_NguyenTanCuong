@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="strike_line"> <strike>22.490.000 đ</strike></string>
+</resources>
